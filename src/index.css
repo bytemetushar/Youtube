@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #726d6d;
+}
+img{
+  cursor: pointer;
+}
+.flex-div{
+  display: flex;
+  align-items: center;
+}
